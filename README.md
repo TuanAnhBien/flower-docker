@@ -1,5 +1,5 @@
 # flower-docker
-Flower docker container for real-time monitoring using Celery Events
+Docker image for Flower - Celery monitoring tool.
 
 # How to use this image
 ## Start a flower instance
